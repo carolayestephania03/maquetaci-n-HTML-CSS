@@ -1,0 +1,133 @@
+body{
+    clear : both;
+    margin : 50px auto;
+    width : 80%;
+    text-align: left;
+    background-color: #EEEEEE;
+}
+
+.main{
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    line-height: 30px;
+}
+
+.content{
+    width: 70%;
+    float: left;
+}
+
+.logo{
+    width: 100%;
+    height: 150px;
+    background-color: #03AED2;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-bottom: 2%;
+}
+
+/*Bar de Navigation*/
+.page-Header nav{
+    background-color: #fff;
+    height: 40px;
+    line-height: 30px;
+    margin: 0 auto 30px auto;
+    text-align: center;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px; 
+}
+
+.page-Header nav ul{
+    margin: 0 auto;
+}
+
+.page-Header nav ul li{
+    float: left;
+    display: inline;
+}
+
+.page-Header nav a:link, .pageHeader nav a:visited{
+    color: #FFF;
+    display: inline-block;
+    height: 30px;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.page-Header nav a:hover, .pageHeader nav a:active
+
+.page-Header nav .active a link, .pageHeader nav .active a:visited{
+    background-color: #2795b6;
+    color: #FFF;
+}
+
+.main {
+    overflow: hidden;
+    line-height: 30px;
+}
+
+.top {
+    margin-bottom: 3%;
+}
+
+.content {
+    width: 70%;
+    float: left;
+}
+
+.top-sidebar {
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    padding: 2% 3%;
+    margin-bottom: 2%;
+}
+
+.navegation {
+    display: block;
+    list-style-position: inside;
+    list-style-type: none;
+    margin: 0;
+    padding: 0.875em 0;
+}
+
+.botton-sidebar {
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    padding: 2% 3%;
+}
+
+.factured {
+    background: none repeat scroll 0 0 #f2f2f2;
+    border-color: #d9d9d9;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 1.25em;
+    padding: 1.25em ;
+
+}
+
+.page-footer {
+    width: 100%;
+    height: 40px;
+    line-height: 5px;
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: #2BA6CB;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    color: #201E43;
+    text-align: center;
+    font-weight: bold;
+}
+
+.page-footer p {
+    width: 90%;
+    margin: 90;
+}
