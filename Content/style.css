@@ -3,7 +3,7 @@ body{
     margin : 50px auto;
     width : 80%;
     text-align: left;
-    background-color: #EEEEEE;
+    background-color: #F5EBE0;
 }
 
 .main{
@@ -21,7 +21,7 @@ body{
 .logo{
     width: 100%;
     height: 150px;
-    background-color: #03AED2;
+    background-color: #D6CCC2;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -30,7 +30,7 @@ body{
 
 /*Bar de Navigation*/
 .page-Header nav{
-    background-color: #fff;
+    background-color: #D5BDAF;
     height: 40px;
     line-height: 30px;
     margin: 0 auto 30px auto;
@@ -84,6 +84,7 @@ body{
     margin-left: 2%;
     padding: 2% 3%;
     margin-bottom: 2%;
+    background-color: #E3D5CA;
 }
 
 .navegation {
@@ -118,7 +119,7 @@ body{
     float: left;
     margin-top: 2%;
     margin-bottom: 2%;
-    background-color: #2BA6CB;
+    background-color: #D5BDAF;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
